@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PG2_STG評価課題2", "PG2_STG評価課題2.vcxproj", "{15302DCC-6622-459B-BFC0-AD8AA47027F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15302DCC-6622-459B-BFC0-AD8AA47027F9}.Debug|x64.ActiveCfg = Debug|x64
+		{15302DCC-6622-459B-BFC0-AD8AA47027F9}.Debug|x64.Build.0 = Debug|x64
+		{15302DCC-6622-459B-BFC0-AD8AA47027F9}.Release|x64.ActiveCfg = Release|x64
+		{15302DCC-6622-459B-BFC0-AD8AA47027F9}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBEECBF8-2D2C-4D12-82FA-D1789FCCDEC1}
+	EndGlobalSection
+EndGlobal
